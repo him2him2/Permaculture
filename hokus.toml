@@ -1,0 +1,222 @@
+hugover = "0.50"
+
+[[serve]]
+key = "default"
+config = "config.toml"
+
+[[build]]
+key = "default"
+config = "config.toml"
+
+[[collections]]
+key = "posts"
+title = "Posts"
+folder = "content/post/"
+extension = "md"
+dataformat = "toml"
+itemtitle = "Post"
+
+  [[collections.fields]]
+  type = "info"
+  content = "This is where posts are created/edited."
+
+  [[collections.fields]]
+  key = "title"
+  title = "Title"
+  type = "string"
+
+  [[collections.fields]]
+  key = "subtitle"
+  title = "Subtitle"
+  type = "string"
+
+  [[collections.fields]]
+  key = "description"
+  title = "Description"
+  type = "string"
+  multiLine = true
+
+  [[collections.fields]]
+  key = "author"
+  title = "Author"
+  type = "string"
+
+  [[collections.fields]]
+  key = "URL"
+  title = "URL"
+  type = "string"
+
+  [[collections.fields]]
+  key = "image"
+  title = "Image"
+  type = "string"
+
+  [[collections.fields]]
+  key = "pubdate"
+  title = "Pub Date"
+  type = "date"
+  default = "now"
+
+  [[collections.fields]]
+  key = "draft"
+  title = "Draft"
+  type = "boolean"
+
+
+#  [[collections.fields]]
+#  key = "na"
+#  title = "Draft"
+#  type = "leaf-array"
+# [[collections.fields.field]]
+#  key = "image"
+#  title = "Image"
+#  type = "string"
+
+
+
+
+
+  [[collections.fields]]
+  key = "mainContent"
+  title = "Content"
+  type = "markdown"
+
+
+[[collections]]
+key = "Pages"
+title = "Pages"
+folder = "content/pages/"
+extension = "md"
+dataformat = "toml"
+itemtitle = "Pages"
+
+  [[collections.fields]]
+  type = "info"
+  content = "This is where posts are created/edited."
+
+  [[collections.fields]]
+  key = "title"
+  title = "Title"
+  type = "string"
+
+  [[collections.fields]]
+  key = "subtitle"
+  title = "Subtitle"
+  type = "string"
+
+  [[collections.fields]]
+  key = "description"
+  title = "Description"
+  type = "string"
+  multiLine = true
+
+  [[collections.fields]]
+  key = "author"
+  title = "Author"
+  type = "string"
+
+  [[collections.fields]]
+  key = "URL"
+  title = "URL"
+  type = "string"
+
+  [[collections.fields]]
+  key = "image"
+  title = "Image"
+  type = "string"
+
+  [[collections.fields]]
+  key = "pubdate"
+  title = "Pub Date"
+  type = "date"
+  default = "now"
+
+  [[collections.fields]]
+  key = "draft"
+  title = "Draft"
+  type = "boolean"
+
+
+#  [[collections.fields]]
+#  key = "na"
+#  title = "Draft"
+#  type = "leaf-array"
+# [[collections.fields.field]]
+#  key = "image"
+#  title = "Image"
+#  type = "string"
+
+
+
+
+
+  [[collections.fields]]
+  key = "mainContent"
+  title = "Content"
+  type = "markdown"
+
+
+
+
+
+
+[[singles]]
+key = "mainConfig"
+title = "Main Config"
+file = "config.toml"
+
+  [[singles.fields]]
+  key = "title"
+  title = "Site Title"
+  type = "string"
+  tip = "Your page title."
+
+  [[singles.fields]]
+  key = "baseurl"
+  title = "Base URL"
+  type = "string"
+  tip = "Your site URL."
+
+
+  [[singles.fields]]
+  key = "theme"
+  title = "Theme"
+  type = "readonly"
+  tip = "The current theme."
+
+  [[singles.fields]]
+  key = "languageCode"
+  title = "Language Code"
+  type = "readonly"
+
+  [[singles.fields]]
+  key = "googleAnalytics"
+  title = "Google Analytics"
+  type = "string"
+  tip = "Provide a Google Analitics Tracking Code to enable analytics."
+
+  [[singles.fields]]
+  key = "disqusShortname"
+  title = "Disqus Shortname"
+  type = "string"
+  tip = "Enable comments by entering your Disqus shortname"
+  
+[[singles.fields]]
+  key = "preserveTaxonomyNames"
+  title = "Preserve Taxonomy Names"
+  type = "boolean"
+  tip = "Enable comments by entering your Disqus shortname"
+
+[[singles.fields]]
+  key = "paginate"
+  title = "Paginate"
+  type = "number"
+  tip = "How many in a list."
+
+
+  [[singles.fields]]
+  key = "enableRobotsTXT"
+  title = "Enable Robots"
+  type = "boolean"
+  default = true
+  tip = "If you want you page to be indexed, keep this enabled."

@@ -1,0 +1,17 @@
+{{ $id := .Get 0 }}
+{{ $pages := .Get 1 }}
+{{.Scratch.Set "pages" ""}}
+{{ if gt (len $pages) 1  }}
+	{{ $.Scratch.Set "pages" ( print ", pp. " $pages)  }}
+{{end}}
+
+{{ $pages := $.Scratch.Get "pages"}}
+{{range $key, $value := .Site.Data.citations }}
+
+{{if eq $key $id}}
+	{{replace .citation "[pn]" $pages | markdownify}}
+{{end}}
+
+{{end}}
+
+

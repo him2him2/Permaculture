@@ -1,0 +1,11 @@
+{{ $section := .Get 0 }}
+
+<ol>
+{{range $key, $value := .Site.Data.citations }}
+
+{{if eq $value.section $section}}
+	<li> {{replace .citation  "[pn]" "" | markdownify}}</li>
+{{end}}
+
+{{end}}
+</ol>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soil on Permaculture Life</title>
+    <link>https://him2him2.github.io/PermacultureSite/tags/soil/</link>
+    <description>Recent content in soil on Permaculture Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Feb 2019 04:11:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://him2him2.github.io/PermacultureSite/tags/soil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://him2him2.github.io/PermacultureSite/post/my-first-post/</link>
+      <pubDate>Mon, 04 Feb 2019 04:11:37 +0000</pubDate>
+      
+      <guid>https://him2him2.github.io/PermacultureSite/post/my-first-post/</guid>
+      <description>Title of PostThis is test content to see if it works. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere venenatis rutrum. Nulla vel ipsum eget justo mollis consequat vitae ac magna. In blandit sagittis risus, sed fringilla magna luctus a. Maecenas accumsan ligula vel nisi sodales, sit amet cursus mi ultrices. Morbi malesuada, dui nec tempus ultrices, orci velit condimentum dui, ut egestas lorem erat vel arcu. Sed vitae nulla nisl.</description>
+    </item>
+    
+  </channel>
+</rss>

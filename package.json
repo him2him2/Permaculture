@@ -1,0 +1,23 @@
+{
+  "name": "permaculture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://him2him2@github.com/him2him2/Permaculture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/him2him2/Permaculture/issues"
+  },
+  "homepage": "https://github.com/him2him2/Permaculture#readme",
+  "dependencies": {
+    "atomic-algolia": "^0.3.17"
+  }
+}

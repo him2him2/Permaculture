@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Habits on Permaculture Life</title>
+    <link>https://him2him2.github.io/PermacultureSite/plants/vegetables/lettuces/behaviors/</link>
+    <description>Recent content in Habits on Permaculture Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Feb 2019 20:11:37 -0800</lastBuildDate>
+    
+	<atom:link href="https://him2him2.github.io/PermacultureSite/plants/vegetables/lettuces/behaviors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://him2him2.github.io/PermacultureSite/plants/vegetables/lettuces/behaviors/propagation/</link>
+      <pubDate>Sun, 03 Feb 2019 20:11:37 -0800</pubDate>
+      
+      <guid>https://him2him2.github.io/PermacultureSite/plants/vegetables/lettuces/behaviors/propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://him2him2.github.io/PermacultureSite/plants/vegetables/lettuces/behaviors/reproduction/</link>
+      <pubDate>Sun, 03 Feb 2019 20:11:37 -0800</pubDate>
+      
+      <guid>https://him2him2.github.io/PermacultureSite/plants/vegetables/lettuces/behaviors/reproduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

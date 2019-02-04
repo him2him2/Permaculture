@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rabbit Resources on Permaculture Life</title>
+    <link>https://him2him2.github.io/PermacultureSite/animals/rabbits/resources/</link>
+    <description>Recent content in Rabbit Resources on Permaculture Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Feb 2019 20:11:37 -0800</lastBuildDate>
+    
+	<atom:link href="https://him2him2.github.io/PermacultureSite/animals/rabbits/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

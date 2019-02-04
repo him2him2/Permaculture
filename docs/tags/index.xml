@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Permaculture Life</title>
+    <link>https://him2him2.github.io/PermacultureSite/tags/</link>
+    <description>Recent content in Tags on Permaculture Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://him2him2.github.io/PermacultureSite/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tips</title>
+      <link>https://him2him2.github.io/PermacultureSite/tags/tips/</link>
+      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://him2him2.github.io/PermacultureSite/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>https://him2him2.github.io/PermacultureSite/tags/vim/</link>
+      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://him2him2.github.io/PermacultureSite/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fertility</title>
+      <link>https://him2him2.github.io/PermacultureSite/tags/fertility/</link>
+      <pubDate>Mon, 04 Feb 2019 04:11:37 +0000</pubDate>
+      
+      <guid>https://him2him2.github.io/PermacultureSite/tags/fertility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soil</title>
+      <link>https://him2him2.github.io/PermacultureSite/tags/soil/</link>
+      <pubDate>Mon, 04 Feb 2019 04:11:37 +0000</pubDate>
+      
+      <guid>https://him2him2.github.io/PermacultureSite/tags/soil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
